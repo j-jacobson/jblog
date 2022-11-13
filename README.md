@@ -7,7 +7,7 @@ uploaded to a blog correctly formatted.
 
 ## Implementation
 Folders: Publish, Live, Settings
-In 'Settings', the template and certain links that will help the tool.
+In 'Templates', the template and certain links that will help the tool.
 In 'Live', the current source code of the website.
 In 'Publish', where completed drafts are sent to be published. This is where the script
 should live as well, so that the user can verify the correct files are due to be published.
